@@ -1,0 +1,3 @@
+[submodule "WG"]
+	path = WG
+	url = https://github.com/nicolasberube/Wiki-Gendersort
