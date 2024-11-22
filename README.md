@@ -1,6 +1,7 @@
 # gendered-se
 
-An analysis of data from software ecosystems.
+An analysis of data from software ecosystems. An anonymized data set is available on Zenodo: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14204472.svg)](https://doi.org/10.5281/zenodo.14204472)
+
 
 
 
